@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "facilities/psychoph.html",
+    "href": "facilities/psychoph.html",
+    "title": "Psychophysiology Lab",
+    "section": "",
+    "text": "Our Psychophysiology Lab is equipped with state-of-the-art tools to study the dynamic relationship between physiological processes and psychological states. By monitoring signals from the body, researchers can gain insight into emotional, cognitive, and behavioral responses under various conditions.\n\n\n\nThe laboratory houses a MindWare (mindwaretech.com) system, with an 8-slot Bionex box that was upgraded to the latest hardware.  This system enables collection of ECG, EMG, GSC, and impedance cardiography. The features of this system include:\nModular design allowing modules to be interchanged between mainframes.\nSynchronous audio/video recording to .mpg (with A/V option)\n16 bit A/D conversion\nCommunication via USB 2.0 high speed format\nDigital input and output triggering\n16 lines of synchronous digital input (sampled at analog rate)\nIn line event detection, real time event log\nOnline filtering and transforms (software)\nOur system includes the Biolab Acquisition and Analysis software which includes real time event logs, user-defined event coding, triggering modes, real time preview, scaling, filtering, and wavemath, and the ability for simultaneous playback of all acquired channels and video."
+  },
+  {
+    "objectID": "facilities/psychoph.html#technical-details",
+    "href": "facilities/psychoph.html#technical-details",
+    "title": "Psychophysiology Lab",
+    "section": "",
+    "text": "The laboratory houses a MindWare (mindwaretech.com) system, with an 8-slot Bionex box that was upgraded to the latest hardware.  This system enables collection of ECG, EMG, GSC, and impedance cardiography. The features of this system include:\nModular design allowing modules to be interchanged between mainframes.\nSynchronous audio/video recording to .mpg (with A/V option)\n16 bit A/D conversion\nCommunication via USB 2.0 high speed format\nDigital input and output triggering\n16 lines of synchronous digital input (sampled at analog rate)\nIn line event detection, real time event log\nOnline filtering and transforms (software)\nOur system includes the Biolab Acquisition and Analysis software which includes real time event logs, user-defined event coding, triggering modes, real time preview, scaling, filtering, and wavemath, and the ability for simultaneous playback of all acquired channels and video."
+  },
+  {
+    "objectID": "facilities/eyetracking.html",
+    "href": "facilities/eyetracking.html",
+    "title": "Eye Tracking Lab",
+    "section": "",
+    "text": "Tracking eye movements allows us to follow along the path of attention deployed by the observer, giving us insight into what they found interesting or how they perceived whatever is being viewed.\n\n\nThe laboratory houses two Tobii Pro Spectrum systems (in rooms 405G and 405F). \n\nThis system is a screen-based eye tracker capturing gaze data at speeds up to 600 Hz. This high-performance research system provides superior data quality and is designed for extensive research into behavior and eye movements – from fixation-based studies to micro-saccades. It combines video-based pupil- and corneal reflection eye tracking with dark and bright pupil illumination modes. \nTwo cameras capture stereo images of both eyes for robust accurate measurement of eye gaze and eye position in 3D space, as well as pupil diameter. Sampling frequencies range between 60-600 Hz with precision and accuracy between 0.01-0.06°(RMS), and 0.3°, respectively. The system provides binocular eye tracking with total system latency of less than 3 frames and a blink recovery time of 1 frame. The dual-camera, relative to one camera, system gives a more accurate data calculation and the best level of precision and robustness for head movement. \nThe hardware is combined with Tobii Pro Lab software which provides a visual user interface and software features that efficiently guide and support the researcher through all phases of an eye tracking experiment – from test design and recording to analysis. The Tobii Pro Lab facilitates the combination of eye tracking with biometric data streams, like EEG, GSR, and ECG. For co-registration with other data sources, the software allows for a TTL marker at every stimulus onset to ensure precise data synchronization.\n\n\n\n\n\n\n\nNote\n\n\n\nPsychoPy and Openseame software is also available on the computers"
+  },
+  {
+    "objectID": "facilities/eyetracking.html#technical-details",
+    "href": "facilities/eyetracking.html#technical-details",
+    "title": "Eye Tracking Lab",
+    "section": "",
+    "text": "The laboratory houses two Tobii Pro Spectrum systems (in rooms 405G and 405F). \n\nThis system is a screen-based eye tracker capturing gaze data at speeds up to 600 Hz. This high-performance research system provides superior data quality and is designed for extensive research into behavior and eye movements – from fixation-based studies to micro-saccades. It combines video-based pupil- and corneal reflection eye tracking with dark and bright pupil illumination modes. \nTwo cameras capture stereo images of both eyes for robust accurate measurement of eye gaze and eye position in 3D space, as well as pupil diameter. Sampling frequencies range between 60-600 Hz with precision and accuracy between 0.01-0.06°(RMS), and 0.3°, respectively. The system provides binocular eye tracking with total system latency of less than 3 frames and a blink recovery time of 1 frame. The dual-camera, relative to one camera, system gives a more accurate data calculation and the best level of precision and robustness for head movement. \nThe hardware is combined with Tobii Pro Lab software which provides a visual user interface and software features that efficiently guide and support the researcher through all phases of an eye tracking experiment – from test design and recording to analysis. The Tobii Pro Lab facilitates the combination of eye tracking with biometric data streams, like EEG, GSR, and ECG. For co-registration with other data sources, the software allows for a TTL marker at every stimulus onset to ensure precise data synchronization.\n\n\n\n\n\n\n\nNote\n\n\n\nPsychoPy and Openseame software is also available on the computers"
+  },
+  {
+    "objectID": "facilities/behave.html",
+    "href": "facilities/behave.html",
+    "title": "Behavioral Testing Room",
+    "section": "",
+    "text": "Behavioral Testing Room\nMeasuring participants’ decisions, reaction times and accuracy are integral aspects of human neuroscience research. One room is available to researchers interested in conducting behavioral experiments."
+  },
+  {
+    "objectID": "People/people.html",
+    "href": "People/people.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Our helpful staff aims to make research at the HNL run as smoothly as possible. In addition to maintaining the facilities, they assist the research community with their experiments.\n\n\n\n\n\n\n\nJason Geller, PhD.\nI am the current Director of the Human Neuroscience Lab at Boston College. My research program investigates the cognitive and neurological underpinnings of language processing. I am primarily interested in the mechanisms underlying visual word recognition and speech perception. On the weekends, I spend time with my other love: human memory. In this area, I am interested in semantics, metacognition/metamemory, and desirable difficulties.\nMy philosophy is that cognition is best understood by looking at both behavior and the brain. To get a better understanding of cognition I use a multi-method approach that involves using standard behavioral measurements (e.g., reaction times), eye-tracking, neuroimaging, and physiological and nuero-physiological indices (e.g., pupillometry,EEG/sEEG).\nMost importantly, my research is conducted according to the principles of open science. In my research, I promote open science practices by making all my work accessible and reproducible.\n📧 [Email](mailto:jason.geller@bc.edu)"
+  },
+  {
+    "objectID": "People/people.html#director",
+    "href": "People/people.html#director",
+    "title": "Staff",
+    "section": "",
+    "text": "Jason Geller, PhD.\nI am the current Director of the Human Neuroscience Lab at Boston College. My research program investigates the cognitive and neurological underpinnings of language processing. I am primarily interested in the mechanisms underlying visual word recognition and speech perception. On the weekends, I spend time with my other love: human memory. In this area, I am interested in semantics, metacognition/metamemory, and desirable difficulties.\nMy philosophy is that cognition is best understood by looking at both behavior and the brain. To get a better understanding of cognition I use a multi-method approach that involves using standard behavioral measurements (e.g., reaction times), eye-tracking, neuroimaging, and physiological and nuero-physiological indices (e.g., pupillometry,EEG/sEEG).\nMost importantly, my research is conducted according to the principles of open science. In my research, I promote open science practices by making all my work accessible and reproducible.\n📧 [Email](mailto:jason.geller@bc.edu)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Human Neuroscience Recharge Facility at Boston College",
+    "section": "",
+    "text": "The Human Neuroscience Laboratory (HNL) is located in Mcguinn Hall 405.\nThe HNL at Boston College is a vibrant research hub utilizing advanced cognitive neuroscience techniques to investigate the complexities of human behavior and brain function. Our state-of-the-art methodologies include:\n\nTranscranial magnetic stimulation (TMS),\nElectroencephalography (EEG),\nFunctional near-infrared spectroscopy (fNIRS),\nPsychophysiology,\nEye-tracking, and\nBehavioral measures\n\nIn addition to conducting cutting-edge research, the lab is dedicated to fostering collaboration and providing support to not only Boston College faculty and staff, but to external users as well. The center offers guidance on research design, data analysis, and manuscript preparation for a broad range of neuroscience projects. Comprehensive training is available for all equipment to ensure researchers can fully utilize these tools\n\n\n    Request for more information/lab tour"
+  },
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "Human Neuroscience Lab",
+    "section": "",
+    "text": "You can find detailed information on our facility equipment,including experimental templates, preprocessing scripts, and SOPs on our OSF page."
+  },
+  {
+    "objectID": "Faculty/fac.html",
+    "href": "Faculty/fac.html",
+    "title": "Faculty",
+    "section": "",
+    "text": "Faculty\nThe HNL supports faculty members within and outside Boston College. Below is a list of faculty members who have used HNL in their research.\n\n\n\n\n\n\nIdo Davidesco\nEmail: ido.davidesco@bc.edu\n\n\n\n\n\n\n\n\nScott Slotnick\nEmail: sd.slotnick@bc.edu\n\n\n\n\n\n\n\n\nElizabeth Kensinger\nEmail: elizabeth.kensinger@bc.edu\n\n\n\n\n\n\n\n\nMaureen Ritchey\nEmail: maureen.ritchey@bc.edu\n\n\n\n\n\n\n\n\nSara Cordes\nEmail: sara.cordes@bc.edu\n\n\n\n\n\n\n\n\nMarina Bers\nEmail: marina.bers@bc.edu"
+  },
+  {
+    "objectID": "publications/pubs.html",
+    "href": "publications/pubs.html",
+    "title": "Human Neuroscience Lab",
+    "section": "",
+    "text": "Below is a list of recent articles that utilized the HNL facilities."
+  },
+  {
+    "objectID": "lab/labusse.html",
+    "href": "lab/labusse.html",
+    "title": "Human Neuroscience Lab",
+    "section": "",
+    "text": "The research facilities in HNL are intended for research groups associated with the Boston College conducting IRB-approved research. Boston College members may submit a New User Application to become a member of HNL and have members of their group use the facilies. Once approved, scheduling of the space is handled through iLAB.\nFor most researchers, access to the HNL can be granted shortly after they have been given a brief orientation to the lab’s equipment and policies."
+  },
+  {
+    "objectID": "lab/labusse.html#requesting-use-of-hnl-facilities",
+    "href": "lab/labusse.html#requesting-use-of-hnl-facilities",
+    "title": "Human Neuroscience Lab",
+    "section": "",
+    "text": "The research facilities in HNL are intended for research groups associated with the Boston College conducting IRB-approved research. Boston College members may submit a New User Application to become a member of HNL and have members of their group use the facilies. Once approved, scheduling of the space is handled through iLAB.\nFor most researchers, access to the HNL can be granted shortly after they have been given a brief orientation to the lab’s equipment and policies."
+  },
+  {
+    "objectID": "lab/labusse.html#scheduling",
+    "href": "lab/labusse.html#scheduling",
+    "title": "Human Neuroscience Lab",
+    "section": "Scheduling",
+    "text": "Scheduling\nAll scheduling is done via iLab. In order to schedule time you will need to get an iLab account and researve time.\n\n\n\n\n\n\nNote\n\n\n\nIf you do not have an account you will need to register for one. Please reach out to Jason Geller.\n\n\n\n\n        ilab\n\n\n\nBooked sessions must include sufficient time for set up and clean up, in addition to the actual running of the experiment.\nIf you are unsure of how long a session may take, it is recommended that you book more time than necessary in order to avoid disrupting a session that may be booked immediately after yours.\nScheduling of the lab is first-come-first-served; however, experiment building/piloting should be booked within the upcoming two weeks as much as possible to allow for subject scheduling to be done farther out on the calendar."
+  },
+  {
+    "objectID": "lab/labusse.html#backups-subject-privacy",
+    "href": "lab/labusse.html#backups-subject-privacy",
+    "title": "Human Neuroscience Lab",
+    "section": "Backups & Subject Privacy",
+    "text": "Backups & Subject Privacy\nThe HNL computers will occasionally have complete system images saved; however, this is not meant for backing up the experiments and data of individual groups. Users are responsible for backing up their own files offsite.\nIt is essential that all data generated at the HNL must be de-identified. At no time can personal identifiers, such as name, date of birth, or address, be stored with the data files."
+  },
+  {
+    "objectID": "lab/labusse.html#role-of-lab-staff",
+    "href": "lab/labusse.html#role-of-lab-staff",
+    "title": "Human Neuroscience Lab",
+    "section": "Role of Lab Staff",
+    "text": "Role of Lab Staff\nThe staff of HNL are familiar with the operation and general capabilities of the equipment and are able to assist you in familiarizing yourself with proper care and operation. For assistance on experimental design or complex usage of equipment and software specific to your research area please contact the director"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "facilities/tms.html",
+    "href": "facilities/tms.html",
+    "title": "TMS Lab",
+    "section": "",
+    "text": "While most human neuroscience methods allow researchers to correlate brain activity with behavior, with transcranial magnetic stimulation (or TMS) researchers can directly manipulate neural activity in a safe manner. TMS can induce virtual “lesions” for brief windows of time to produce short-lasting behavioral or perceptual deficits.\n\n\n\nWe employ a state-of-the-art system for transcranial magnetic stimulation (TMS). The system includes (1) The Magstim Rapid² repetitive stimulator with high frequency capabilities and can also be used for single-pulse protocols (stimulation frequency up to 36Hz (11Hz at max power) (2) AirFilm Butterfly Coil capable of delivering repetitive pulses at high power levels, the D70 AirFilm Coil features an air-cooling system, and (3) a MEP (Motor Evoked Potentials) Monitor. The AFC’s fan permits minimal down time between the running of high intensity protocols, such as high-frequency repetitive pulse protocols.\nA Brainsight 2 Neuronavigation System (Rogue Research, Montreal, Canada) is used to position the TMS coil to target specific brain areas. This technology uses procedures developed for pre-surgical planning. Markers on the coil are imaged with cameras and positioned based on the subject’s own anatomy. An LCD monitor is available for stimulus presentation and software is available for precise time locking of the task paradigm to stimulus presentation."
+  },
+  {
+    "objectID": "facilities/tms.html#technical-details",
+    "href": "facilities/tms.html#technical-details",
+    "title": "TMS Lab",
+    "section": "",
+    "text": "We employ a state-of-the-art system for transcranial magnetic stimulation (TMS). The system includes (1) The Magstim Rapid² repetitive stimulator with high frequency capabilities and can also be used for single-pulse protocols (stimulation frequency up to 36Hz (11Hz at max power) (2) AirFilm Butterfly Coil capable of delivering repetitive pulses at high power levels, the D70 AirFilm Coil features an air-cooling system, and (3) a MEP (Motor Evoked Potentials) Monitor. The AFC’s fan permits minimal down time between the running of high intensity protocols, such as high-frequency repetitive pulse protocols.\nA Brainsight 2 Neuronavigation System (Rogue Research, Montreal, Canada) is used to position the TMS coil to target specific brain areas. This technology uses procedures developed for pre-surgical planning. Markers on the coil are imaged with cameras and positioned based on the subject’s own anatomy. An LCD monitor is available for stimulus presentation and software is available for precise time locking of the task paradigm to stimulus presentation."
+  },
+  {
+    "objectID": "facilities/eeg.html",
+    "href": "facilities/eeg.html",
+    "title": "EEG Lab",
+    "section": "",
+    "text": "EEG Lab\nBy measuring the small changes in electrical activity of the brain from the scalp, electroencephalography (or EEG) has provided insights into the temporal sequence of perceptual, cognitive, and motor functions for decades. From within an electrically-shielded room, researchers in the EEG Lab can measure brain activity from up to 64 electrodes on the head, while simultaneously recording behavioral responses and eye tracking.\nTechnical details\nThe EEG Lab is located in room 405G. It houses an ActiveTwo Biosemi EEG System, a high impedance system capable of collecting in a 64-Channel configuration. The EEG Lab is one room with a display computer and collection computer. Various devices are available to the subject for behavioral responses. We have a Labhackers button box for collecting millisecond accurate responses and a MilliKey DeLux Light Sensor to detect changes in experiment display brightness and generate a keyboard or serial event when the light level crosses a configurable digital threshold. This information can be used to calculate the difference between reported and actual stimulus onset times."
+  },
+  {
+    "objectID": "facilities/fnirs.html",
+    "href": "facilities/fnirs.html",
+    "title": "fNIRS Lab",
+    "section": "",
+    "text": "fNIRS Lab\nBy measuring the changes in cerebral blood flow and oxygenation in the brain, functional near-infrared spectroscopy (fNIRS) has become a valuable tool for studying neural activity associated with perceptual, cognitive, and motor functions. Using near-infrared light, fNIRS allows researchers to non-invasively monitor hemodynamic responses in the brain, offering insight into localized brain activity. The fNIRS system in our lab can simultaneously measure oxygenated and deoxygenated hemoglobin concentrations from multiple optodes positioned on the scalp. This enables the exploration of neural dynamics in both task-related and naturalistic environments, complementing other behavioral and physiological measures such as eye tracking and motion capture.\n\nTechnical details\nThe lab is located in McGuinn 405D\n\nSystem Features: The Brite24 system measures, stores, and wirelessly transmits up to 27 channels of fNIRS signals. Channels can be configured for large regions of the scalp or subdivided into smaller regions, offering flexibility:\n\nConfigurations:\n\nSingle large region: 27 channels\nCombinations of smaller regions: 2×12 channels, 2×10 + 2 short channels, or 4×4 + 2 short channels.\n\nOptode Setup: The system uses 10 transmitters and 8 receivers that fit into a full-head cap with 64+ optode positions, allowing for extensive placement customization.\nHead Cap Options: The lab is equipped with three cap sizes (small, medium, and large) to accommodate different head sizes.\n\nSynchronization Capabilities:\nThe PortaSync wireless device integrates seamlessly with the Brite24 system, enabling synchronization with other instruments. It can generate dual signal levels, corresponding to different event types, which are recorded alongside fNIRS data.\nSoftware:\n\nOxySoft: Used for data collection, storage, and analysis, OxySoft provides real-time and parallel recording of multiple devices. It offers customizable configurations for individual research needs and supports online visualization and analysis.\nEMSE Suite: This modular system includes tools such as the Data Editor Module, which supports filtering, transformation, and detailed time-series analysis.\n\n\nThis versatile setup allows researchers to design experiments with exceptional precision, synchronize multimodal datasets, and analyze neural activity across a variety of contexts and conditions."
+  }
+]

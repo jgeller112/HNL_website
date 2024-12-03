@@ -1,0 +1,17 @@
+# Eye Tracking Lab
+
+Tracking eye movements allows us to follow along the path of attention deployed by the observer, giving us insight into what they found interesting or how they perceived whatever is being viewed.
+
+## Technical details
+
+The laboratory houses two Tobii Pro Spectrum systems (in rooms 405G and 405F). 
+
+-   This system is a screen-based eye tracker capturing gaze data at speeds up to 600 Hz. This high-performance research system provides superior data quality and is designed for extensive research into behavior and eye movements – from fixation-based studies to micro-saccades. It combines video-based pupil- and corneal reflection eye tracking with dark and bright pupil illumination modes. 
+
+-   Two cameras capture stereo images of both eyes for robust accurate measurement of eye gaze and eye position in 3D space, as well as pupil diameter. Sampling frequencies range between 60-600 Hz with precision and accuracy between 0.01-0.06°(RMS), and 0.3°, respectively. The system provides binocular eye tracking with total system latency of less than 3 frames and a blink recovery time of 1 frame. The dual-camera, relative to one camera, system gives a more accurate data calculation and the best level of precision and robustness for head movement. 
+
+-   The hardware is combined with [Tobii Pro Lab software](https://www.tobiipro.com/product-listing/tobii-pro-lab/) which provides a visual user interface and software features that efficiently guide and support the researcher through all phases of an eye tracking experiment – from test design and recording to analysis. The Tobii Pro Lab facilitates the combination of eye tracking with biometric data streams, like EEG, GSR, and ECG. For co-registration with other data sources, the software allows for a TTL marker at every stimulus onset to ensure precise data synchronization.
+
+::: callout-note
+PsychoPy and Openseame software is also available on the computers
+:::

@@ -1,0 +1,9 @@
+# **TMS Lab**
+
+While most human neuroscience methods allow researchers to correlate brain activity with behavior, with transcranial magnetic stimulation (or TMS) researchers can directly manipulate neural activity in a safe manner. TMS can induce virtual “lesions” for brief windows of time to produce short-lasting behavioral or perceptual deficits.
+
+## Technical details
+
+-   We employ a state-of-the-art system for transcranial magnetic stimulation (TMS). The system includes (1) The Magstim Rapid² repetitive stimulator with high frequency capabilities and can also be used for single-pulse protocols (stimulation frequency up to 36Hz (11Hz at max power) (2) AirFilm Butterfly Coil capable of delivering repetitive pulses at high power levels, the D70 AirFilm Coil features an air-cooling system, and (3) a MEP (Motor Evoked Potentials) Monitor. The AFC’s fan permits minimal down time between the running of high intensity protocols, such as high-frequency repetitive pulse protocols.
+
+-   A Brainsight 2 Neuronavigation System (Rogue Research, Montreal, Canada) is used to position the TMS coil to target specific brain areas. This technology uses procedures developed for pre-surgical planning. Markers on the coil are imaged with cameras and positioned based on the subject’s own anatomy. An LCD monitor is available for stimulus presentation and software is available for precise time locking of the task paradigm to stimulus presentation.

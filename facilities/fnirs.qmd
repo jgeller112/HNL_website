@@ -1,0 +1,30 @@
+# fNIRS Lab
+
+By measuring the changes in cerebral blood flow and oxygenation in the brain, functional near-infrared spectroscopy (fNIRS) has become a valuable tool for studying neural activity associated with perceptual, cognitive, and motor functions. Using near-infrared light, fNIRS allows researchers to non-invasively monitor hemodynamic responses in the brain, offering insight into localized brain activity. The fNIRS system in our lab can simultaneously measure oxygenated and deoxygenated hemoglobin concentrations from multiple optodes positioned on the scalp. This enables the exploration of neural dynamics in both task-related and naturalistic environments, complementing other behavioral and physiological measures such as eye tracking and motion capture.
+
+### Technical details
+
+The lab is located in McGuinn 405D
+
+-   **System Features**: The Brite24 system measures, stores, and wirelessly transmits up to **27 channels** of fNIRS signals. Channels can be configured for large regions of the scalp or subdivided into smaller regions, offering flexibility:
+
+    -   **Configurations**:
+
+        -   Single large region: 27 channels
+
+        -   Combinations of smaller regions: 2×12 channels, 2×10 + 2 short channels, or 4×4 + 2 short channels.
+
+    -   **Optode Setup**: The system uses **10 transmitters** and **8 receivers** that fit into a full-head cap with **64+ optode positions**, allowing for extensive placement customization.
+
+    -   **Head Cap Options**: The lab is equipped with three cap sizes (small, medium, and large) to accommodate different head sizes.
+
+-   **Synchronization Capabilities**:\
+    The **PortaSync wireless device** integrates seamlessly with the Brite24 system, enabling synchronization with other instruments. It can generate dual signal levels, corresponding to different event types, which are recorded alongside fNIRS data.
+
+-   **Software**:
+
+    -   **OxySoft**: Used for data collection, storage, and analysis, OxySoft provides real-time and parallel recording of multiple devices. It offers customizable configurations for individual research needs and supports online visualization and analysis.
+
+    -   **EMSE Suite**: This modular system includes tools such as the **Data Editor Module**, which supports filtering, transformation, and detailed time-series analysis.
+
+This versatile setup allows researchers to design experiments with exceptional precision, synchronize multimodal datasets, and analyze neural activity across a variety of contexts and conditions.

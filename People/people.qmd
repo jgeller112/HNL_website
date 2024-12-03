@@ -1,0 +1,17 @@
+# Staff
+
+Our helpful staff aims to make research at the HNL run as smoothly as possible. In addition to maintaining the facilities, they assist the research community with their experiments.
+
+## Director
+
+![](https://www.drjasongeller.com/files/proflies/jasongeller_030723_0007.jpeg){fig-align="center" width="150"}
+
+[**Jason Geller, PhD.**](https://www.drjasongeller.com)
+
+I am the current Director of the Human Neuroscience Lab at Boston College. My research program investigates the cognitive and neurological underpinnings of language processing. I am primarily interested in the mechanisms underlying visual word recognition and speech perception. On the weekends, I spend time with my other love: human memory. In this area, I am interested in semantics, metacognition/metamemory, and desirable difficulties.
+
+My philosophy is that cognition is best understood by looking at both behavior and the brain. To get a better understanding of cognition I use a multi-method approach that involves using standard behavioral measurements (e.g., reaction times), eye-tracking, neuroimaging, and physiological and nuero-physiological indices (e.g., pupillometry,EEG/sEEG).
+
+Most importantly, my research is conducted according to the principles of open science. In my research, I promote open science practices by making all my work accessible and reproducible.
+
+📧 \[Email\](mailto:jason.geller\@bc.edu)

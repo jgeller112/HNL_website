@@ -1,0 +1,25 @@
+# Psychophysiology Lab
+
+Our Psychophysiology Lab is equipped with state-of-the-art tools to study the dynamic relationship between physiological processes and psychological states. By monitoring signals from the body, researchers can gain insight into emotional, cognitive, and behavioral responses under various conditions.
+
+## Technical details
+
+-   The laboratory houses a MindWare (mindwaretech.com) system, with an 8-slot Bionex box that was upgraded to the latest hardware.  This system enables collection of ECG, EMG, GSC, and impedance cardiography. The features of this system include:
+
+-   Modular design allowing modules to be interchanged between mainframes.
+
+-   Synchronous audio/video recording to .mpg (with A/V option)
+
+-   16 bit A/D conversion
+
+-   Communication via USB 2.0 high speed format
+
+-   Digital input and output triggering
+
+-   16 lines of synchronous digital input (sampled at analog rate)
+
+-   In line event detection, real time event log
+
+-   Online filtering and transforms (software)
+
+-   Our system includes the Biolab Acquisition and Analysis software which includes real time event logs, user-defined event coding, triggering modes, real time preview, scaling, filtering, and wavemath, and the ability for simultaneous playback of all acquired channels and video.

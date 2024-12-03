@@ -1,0 +1,38 @@
+## Requesting use of HNL facilities
+
+The research facilities in HNL are intended for research groups associated with the Boston College conducting IRB-approved research. Boston College members may submit a [New User Application](https://forms.gle/q3qD92CcrLFB2wjEA) to become a member of HNL and have members of their group use the facilies. Once approved, scheduling of the space is handled through iLAB.
+
+For most researchers, access to the HNL can be granted shortly after they have been given a brief orientation to the lab's equipment and policies. 
+
+## Scheduling 
+
+All scheduling is done via iLab. In order to schedule time you will need to get an iLab account and researve time.
+
+::: callout-note
+If you do not have an account you will need to register for one. Please reach out to Jason Geller.
+:::
+
+```{=html}
+<center>
+<button onclick="window.location.href='https://bc.ilab.agilent.com/account/login';" 
+        style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        ilab
+</button>
+</center>
+```
+
+- Booked sessions must include sufficient time for set up and clean up, in addition to the actual running of the experiment. 
+- If you are unsure of how long a session may take, it is recommended that you book more time than necessary in order to avoid disrupting a session that may be booked immediately after yours.
+
+- Scheduling of the lab is first-come-first-served; however, experiment building/piloting should be booked within the upcoming two weeks as much as possible to allow for subject scheduling to be done farther out on the calendar.
+
+
+## **Backups & Subject Privacy**
+
+The HNL computers will occasionally have complete system images saved; however, this is not meant for backing up the experiments and data of individual groups. Users are responsible for backing up their own files offsite.
+
+It is essential that all data generated at the HNL must be de-identified. At no time can personal identifiers, such as name, date of birth, or address, be stored with the data files.
+
+## **Role of Lab Staff**
+
+The staff of HNL are familiar with the operation and general capabilities of the equipment and are able to assist you in familiarizing yourself with proper care and operation. For assistance on experimental design or complex usage of equipment and software specific to your research area please contact the director

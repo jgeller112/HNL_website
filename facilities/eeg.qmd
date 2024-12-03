@@ -1,0 +1,9 @@
+# **EEG Lab**
+
+By measuring the small changes in electrical activity of the brain from the scalp, electroencephalography (or EEG) has provided insights into the temporal sequence of perceptual, cognitive, and motor functions for decades. From within an electrically-shielded room, researchers in the EEG Lab can measure brain activity from up to 64 electrodes on the head, while simultaneously recording behavioral responses and eye tracking.
+
+**Technical details**
+
+The EEG Lab is located in room 405G. It houses an ActiveTwo Biosemi EEG System, a high impedance system capable of collecting in a 64-Channel configuration. The EEG Lab is one room with a display computer and collection computer. Various devices are available to the subject for behavioral responses. We have a [Labhackers button box](www.labhackers.com/millikey.html) for collecting millisecond accurate responses and a MilliKey DeLux Light Sensor to detect changes in experiment display brightness and generate a keyboard or serial event when the light level crosses a configurable digital threshold. This information can be used to calculate the difference between reported and actual stimulus onset times.
+
+![](/images/IMG_5538.jpg){fig-align="center"}

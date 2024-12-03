@@ -1,0 +1,100 @@
+# Faculty
+
+The HNL supports faculty members within and outside Boston College. Below is a list of faculty members who have used HNL in their research.
+
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-2805986312.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Ido Davidesco**
+
+Email: [ido.davidesco\@bc.edu](mailto:ido.davidesco@bc.edu)
+:::
+::::::
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-1872469911.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Scott Slotnick**
+
+Email: [sd.slotnick\@bc.edu](mailto:sd.slotnick@bc.edu)
+:::
+::::::
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-521798110.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Elizabeth Kensinger**
+
+Email: [elizabeth.kensinger\@bc.edu](mailto:elizabeth.kensinger@bc.edu)
+:::
+::::::
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-980987263.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Maureen Ritchey**
+
+Email: [maureen.ritchey\@bc.edu](mailto:maureen.ritchey@bc.edu)
+:::
+::::::
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-3615219167.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Sara Cordes**
+
+Email: [sara.cordes\@bc.edu](mailto:sara.cordes@bc.edu)
+:::
+::::::
+
+:::::: columns
+::: {.column width="65%"}
+![](images/clipboard-736262625.png){width="300"}
+:::
+
+::: {.column width="5%"}
+<!-- smaller gap -->
+:::
+
+::: {.column width="30%"}
+**Marina Bers**
+
+Email: [marina.bers\@bc.edu](mailto:marina.bers@bc.edu)
+:::
+::::::

@@ -1,0 +1,58 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"The Human Neuroscience Recharge Facility at Boston College\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "![](images/human-neuroscience-lab-logo.png)\n",
+        "\n",
+        "The Human Neuroscience Laboratory (HNL) is located in Mcguinn Hall 405.\n",
+        "\n",
+        "The HNL at Boston College is a vibrant research hub utilizing advanced cognitive neuroscience techniques to investigate the complexities of human behavior and brain function. Our state-of-the-art methodologies include:\n",
+        "\n",
+        "-   Transcranial magnetic stimulation (TMS),\n",
+        "\n",
+        "-   Electroencephalography (EEG),\n",
+        "\n",
+        "-    Functional near-infrared spectroscopy (fNIRS),\n",
+        "\n",
+        "-   Psychophysiology,\n",
+        "\n",
+        "-   Eye-tracking, and\n",
+        "\n",
+        "-   Behavioral measures\n",
+        "\n",
+        "In addition to conducting cutting-edge research, the lab is dedicated to fostering collaboration and providing support to not only Boston College faculty and staff, but to external users as well. The center offers guidance on research design, data analysis, and manuscript preparation for a broad range of neuroscience projects. Comprehensive training is available for all equipment to ensure researchers can fully utilize these tools\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{html}\n",
+        "\n",
+        "<button onclick=\"window.location.href='https://example.com/form';\" \n",
+        "        style=\"padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;\">\n",
+        "    Fill Out Form\n",
+        "</button>\n",
+        "```"
+      ],
+      "id": "e946915f"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Library/Frameworks/Python.framework/Versions/3.11/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

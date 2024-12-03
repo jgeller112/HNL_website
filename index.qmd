@@ -1,0 +1,32 @@
+---
+title: "The Human Neuroscience Recharge Facility at Boston College"
+---
+
+![](images/human-neuroscience-lab-logo.png)
+
+The Human Neuroscience Laboratory (HNL) is located in Mcguinn Hall 405.
+
+The HNL at Boston College is a vibrant research hub utilizing advanced cognitive neuroscience techniques to investigate the complexities of human behavior and brain function. Our state-of-the-art methodologies include:
+
+-   Transcranial magnetic stimulation (TMS),
+
+-   Electroencephalography (EEG),
+
+-    Functional near-infrared spectroscopy (fNIRS),
+
+-   Psychophysiology,
+
+-   Eye-tracking, and
+
+-   Behavioral measures
+
+In addition to conducting cutting-edge research, the lab is dedicated to fostering collaboration and providing support to not only Boston College faculty and staff, but to external users as well. The center offers guidance on research design, data analysis, and manuscript preparation for a broad range of neuroscience projects. Comprehensive training is available for all equipment to ensure researchers can fully utilize these tools
+
+```{=html}
+<center>
+<button onclick="window.location.href='https://forms.gle/2cEw9pnZ34ZxnVWx6';" 
+        style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Request for more information/lab tour
+</button>
+</center>
+```

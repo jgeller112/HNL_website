@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Human Neuroscience Lab"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Lab use
+        href: lab/labusse.qmd
+      - text: Facilities
+        menu:
+          - text: EEG Lab
+            href: facilities/eeg.qmd
+          - text: Eye Tracking Lab
+            href: facilities/eyetracking.qmd
+          - text: Behavioral Testing
+            href: facilities/behave.qmd
+          - text: TMS lab
+            href: facilities/tms.qmd
+          - text: fNIRS
+            href: facilities/fnirs.qmd
+      - text: Staff
+        href: People/people.qmd
+      - text: Faculty
+        href: Faculty/fac.qmd
+      - text: Publications
+        href: publications/pubs.qmd
+      - text: For Researchers
+        href: resources/resources.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
