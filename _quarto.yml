@@ -30,6 +30,8 @@ website:
         href: publications/pubs.qmd
       - text: For Researchers
         href: resources/resources.qmd
+      - text: Rates
+        href: resources/rates.qmd
 
 format:
   html:

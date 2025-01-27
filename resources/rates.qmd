@@ -1,0 +1,147 @@
+---
+title: "Rates"
+format: html
+---
+
+Here you will find rates for using the equipment in the lab. 
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Equipment</th>
+    <th class="tg-0pky">Usage Type</th>
+    <th class="tg-0pky">Internal Pricing</th>
+    <th class="tg-0pky">External Pricing (Academic &amp; Non-Academic)</th>
+    <th class="tg-0pky">Requirements</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">64-channel BioSemi ActiveTwo system</td>
+    <td class="tg-0pky">Self Use</td>
+    <td class="tg-0pky">$14.78/hr</td>
+    <td class="tg-0pky">$28.63/hr</td>
+    <td class="tg-0pky">Trained</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Assisted Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Training Session</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Artinis wearable, Brite24 fNIRS system</td>
+    <td class="tg-0pky">Self Use</td>
+    <td class="tg-0pky">$14.78/hr</td>
+    <td class="tg-0pky">$28.63/hr</td>
+    <td class="tg-0pky">Trained</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Assisted Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Training Session</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Behavioral Testing Room</td>
+    <td class="tg-0pky">Default Use</td>
+    <td class="tg-0pky">No Charge</td>
+    <td class="tg-0pky">No Charge</td>
+    <td class="tg-0pky">None</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Consulting Services</td>
+    <td class="tg-0pky">Default Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">None</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MindWare system</td>
+    <td class="tg-0pky">Self Use</td>
+    <td class="tg-0pky">$11.65/hr</td>
+    <td class="tg-0pky">$22.57/hr</td>
+    <td class="tg-0pky">Trained</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Assisted Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Training Session</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Magstim Rapid² TMS</td>
+    <td class="tg-0pky">Self Use</td>
+    <td class="tg-0pky">$17.07/hr</td>
+    <td class="tg-0pky">$33.08/hr</td>
+    <td class="tg-0pky">Trained</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Assisted Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Training Session</td>
+    <td class="tg-0pky">$192.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tobii Pro Spectrum</td>
+    <td class="tg-0pky">Self Use</td>
+    <td class="tg-0pky">$3.96/hr</td>
+    <td class="tg-0pky">$7.67/hr</td>
+    <td class="tg-0pky">Trained</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Assisted Use</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Training Session</td>
+    <td class="tg-0pky">$102.92/hr</td>
+    <td class="tg-0pky">$199.41/hr</td>
+    <td class="tg-0pky">Approval required</td>
+  </tr>
+</tbody></table>
+
+
