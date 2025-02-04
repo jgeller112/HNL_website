@@ -15,7 +15,9 @@ format: html
 | **Behavioral Testing Room** | No Charge | No Charge |
 | **Consulting Services** | \$102.92/hr | \$199.41/hr |
 
-### **Additional Services (Hourly, Plus Equipment Cost)**
+### **Additional Services**
+
+-   **(Hourly, Plus Equipment Cost)**
 
 | Service Type | Self-Use Rate (per hour) | External Use Rate (Academic/Non-Academic) (per hour) |
 |-----------------|-----------------|---------------------------------------|
